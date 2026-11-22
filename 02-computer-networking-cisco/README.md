@@ -6,4 +6,4 @@
 - **Network Verification:** Troubleshooting connectivity using `ping`, `traceroute`, `show ip route`, and `show running-config`.
 
 ## Lab Topologies & Reports
-*(Drop your `.pkt` Cisco Packet Tracer files and PDF lab write-ups into this folder)*
+
